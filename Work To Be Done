@@ -1,0 +1,7 @@
+"""Project is unfinished and needs work on the GUI to provide button an "Accept" or "OK" button when the user has selected a table and after the list of columns are enumerated.   
+
+Each dialog box "Pick Tables...", "Select Columns...", "Specify Joins...", and "Specify Where Statments...", etc is currently 
+a "moded" dialog box.  They need buttons to accept the choices.  The user can only hit the "X" icon to exit, and no choices get saved.
+
+"""
+
