@@ -14,3 +14,5 @@ The code consists of three parts:
 - A query class, which handles the specifications of which tables to include, which columns to take, how to join each table and optional where statements.
 
 - A PyQT GUI that handles the inputs.
+
+The Universe class need to be better defined and explained, because it looks like the universe class must be defined first, and then made available before the application will run.  An example `universe.uni` is not provided.   
