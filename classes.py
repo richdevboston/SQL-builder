@@ -281,10 +281,10 @@ def main():
     """
     file = 'example.JSON'
     query = Query(file)
-    query.addTables('table1')
-    query.addTables('table2')
-    query.addTables('table3')
-    print(query.compileQuery())
+    query.add_tables('table1')
+    query.add_tables('table2')
+    query.add_tables('table3')
+    print(query.compile_query())
 
 if __name__ == "__main__":
     main()
